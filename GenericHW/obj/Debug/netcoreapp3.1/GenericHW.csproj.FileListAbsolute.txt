@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\bin\Debug\netcoreapp3.1\GenericHW.exe
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\bin\Debug\netcoreapp3.1\GenericHW.deps.json
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\bin\Debug\netcoreapp3.1\GenericHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\bin\Debug\netcoreapp3.1\GenericHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\bin\Debug\netcoreapp3.1\GenericHW.dll
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\bin\Debug\netcoreapp3.1\GenericHW.pdb
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\obj\Debug\netcoreapp3.1\GenericHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\obj\Debug\netcoreapp3.1\GenericHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\obj\Debug\netcoreapp3.1\GenericHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\obj\Debug\netcoreapp3.1\GenericHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\obj\Debug\netcoreapp3.1\GenericHW.dll
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\obj\Debug\netcoreapp3.1\GenericHW.pdb
+C:\Users\Esetb\source\repos\GenericHW\GenericHW\obj\Debug\netcoreapp3.1\GenericHW.genruntimeconfig.cache
